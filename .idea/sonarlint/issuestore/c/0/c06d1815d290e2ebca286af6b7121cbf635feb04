@@ -1,0 +1,9 @@
+
+£
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ùª õÿÿÿÿÿ8†±Ç™€/
+R
+java:S1854"5Remove this useless assignment to local variable "a".(ÂÆ¯²8÷Ï™€/
+C
+java:S1481"&Remove this unused "a" local variable.(ã‹Í8õĞÍ™€/
+0
+java:S1220""Move this file to a named package.
